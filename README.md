@@ -1,2 +1,2 @@
-# Edurekaa
+# Edureka
 Full stack web development
